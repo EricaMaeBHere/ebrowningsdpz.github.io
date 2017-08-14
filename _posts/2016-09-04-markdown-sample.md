@@ -3,6 +3,10 @@ layout: post
 title:  "Markdown sample"
 date:   2016-09-04
 ---
+# Hot Dogs!
+![Adorable Link](https://media.giphy.com/media/NmGbJwLl7Y4lG/giphy.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4MU91WlFF4g" frameborder="0" allowfullscreen></iframe>
 
 ### Markdown test document
 
