@@ -4,18 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+> What you are afraid to do is a clear indication of the next thing you need to do.
+> -Ralph Waldo Emerson
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+Ohio born and bred, I've spent the few short years of my adult life diving head first into new adventures and exploring this crazy world of ours. 
 
-## Themes
+Recently graduated from Olivet Nazarene University, just south of Chicago with a degree in Political Science. After spending a semester abroad studying at University of Oxford I knew I just couldn't sit still!
 
-## Browser Support
+My passions for creative community based poverty relief, government, and travel all brought me to where I am today serving as an AmeriCorps VISTA member with the San Diego Promise Zone. Being an AmeriCorps member means pledging a year of my life to civil service and living at the local poverty level alongside the communities I'm serving. 
 
-## Installation
+Combine that with the fact that I'm thousands of miles away from home at my first "adult" job ever and it's going to be a wild ride! Stick around for updates as I see where this crazy year in good old California takes me!
