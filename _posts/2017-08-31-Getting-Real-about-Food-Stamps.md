@@ -16,7 +16,7 @@ The guy who met with me was excited to have me there, and made sure right away a
 
 If you want to go meet him and all the other awesome people trying to make farmers markets accessible to those struggling with poverty I've worked up this map of all the farmers markets in San Diego. The ones in the lightest pink will Market Match, medium pink accepts CalFresh, and dark pink does not accept them (which is really sad because the one next to my house doesn't accept them and I really wish they did)
 
-![Farmers Market EBT Map](https://ebrowningsdpz.carto.com/builder/7f31f7e8-8e74-11e7-bd4e-0e9ed59b32fa/embed)
+<script src="https://ebrowningsdpz.carto.com/builder/7f31f7e8-8e74-11e7-bd4e-0e9ed59b32fa/embed"><script>
 
 Not that I've got it all figured out, but the longer I'm here in this job, the longer I'm living below the poverty line, the more I realize that the world is full of many more people who want to help, than those who want to judge. But I think the world also needs people to talk about it and help change the perspectives of those who think less of people on assistance programs.
 
