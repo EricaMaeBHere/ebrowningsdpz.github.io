@@ -2,13 +2,13 @@
 layout: post
 title: "Getting Real about Food Stamps"
 date: 2017-08-31
-catagories: writing
+categories: writing
 ---
 In my life food stamps has always felt like a dirty word. Growing up in a conservative midwest town they were seen as something only lazy people needed. If you were smart enough and hard working enough then taking a government hand out didn't need to be an option.
 
 So how am I supposed to feel now that I'm one of those people? But the thing is I'm not lazy or stupid, and I'm not trying to scam the government, and neither are 99.99% of people on them.
 
-The first time I went up to use my food stamps was at a farmers market here in town that matches your CalFresh food stamps up to 10 extra dollars you can use at the market on produce. 
+The first time I went up to use my food stamps was at a farmers market here in town that matches your CalFresh food stamps up to 10 extra dollars you can use at the market on produce.
 
 I knew that the people at the tent where you go to use your food stamps do this all the time, but I was still afraid of their judgement as I walked up. Would they think I was incompetent? Did I look too well off to need food stamps? (I was wearing a pair of overalls from the salvation army that only cost $3 by the way). Would they think I was silly for asking what kinds of foods I was allowed to buy? I was so nervous I almost didn't even go up and ask, but in the end I'm glad I did.
 
