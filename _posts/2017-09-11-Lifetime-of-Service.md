@@ -9,4 +9,4 @@ categories: writing
 
 # Working with Warriors
 
-<span style="display:block;text-align:center">[![Workshops for Warriors logo](https://yt3.ggpht.com/-CxhFyYFUGJs/AAAAAAAAAAI/AAAAAAAAAAA/1klndl_u9AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg)](https://workshopsforwarriors.org/)</span>
+<span style="display:block;text-align:center">[![Workshops for Warriors logo](https://workshopsforwarriors.org/wp-content/uploads/2015/05/workshop_for_warriors_logo2.png)](https://workshopsforwarriors.org/)</span>
