@@ -31,8 +31,8 @@ social_link: twitter
 social_username: EricaMaeBHere
 
 # Set theme color here
-# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: blue
+# Choose from: black (default), blue, gray, magenta, orange, red, white, CherryBlossom, and yellow.
+theme_color: CherryBlossom
 
 # Build settings
 markdown: kramdown
