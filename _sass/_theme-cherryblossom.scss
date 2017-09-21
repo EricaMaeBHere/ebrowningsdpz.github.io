@@ -1,0 +1,32 @@
+// CherryBlossom theme
+
+// Color variables
+$dark-red: #4d000f;
+$blue-small: #007AB3;
+$gray: #888b90;
+$white: #fff;
+$light-pink: #ffeaee;
+
+// Config
+$color-background: $light-pink !default;
+$color-dot-accent: $dark-red !default;
+$color-foreground: $white !default;
+$color-title: $dark-red !default;
+$color-body-text: $dark-red !default;
+$color-text-accent: $gray !default;
+$color-code: $blue-small !default;
+$color-nav-link: $dark-red !default;
+$color-primary-link: $dark-red !default;
+
+.font-smoothing {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;
