@@ -2,14 +2,15 @@
 
 // Color variables
 $magenta: #FFB8C5;
-$black: #740017;
+$burgundy: #740017;
 $white: #fff;
+$black: #000000
 
 // Config
 $color-background: $magenta !default;
-$color-dot-accent: $black !default;
+$color-dot-accent: $burgundy !default;
 $color-foreground: $white !default;
-$color-title: $black !default;
+$color-title: $burgundy !default;
 $color-body-text: $black !default;
 $color-text-accent: $magenta !default;
 $color-code: $magenta !default;
