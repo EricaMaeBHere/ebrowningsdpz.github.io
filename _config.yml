@@ -36,3 +36,6 @@ theme_color: magenta
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
