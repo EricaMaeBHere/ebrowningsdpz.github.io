@@ -16,7 +16,7 @@
 title: Erica Mae B. Here
 description: Traveler and young professional, never knowing where life will take me
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.ericamaebhere.com/" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: ebrowningsdpz.github.io # the GitHub repo name for your project
 github_username: EricaMaeBHere
 
